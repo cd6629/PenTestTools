@@ -1,0 +1,3 @@
+[submodule "dirsearch"]
+	path = dirsearch
+	url = https://github.com/maurosoria/dirsearch
